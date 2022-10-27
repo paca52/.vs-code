@@ -1,0 +1,2 @@
+$env:Path += ';C:\Program Files\CodeBlocks\MinGW\bin\'
+New-Alias -Name make -Value mingw32-make
